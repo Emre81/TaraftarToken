@@ -1,6 +1,6 @@
 pragma solidity ^0.5.0;
 
-
+// olaylar olaylar
 
 contract ERC20Interface {
     function totalSupply() public view returns (uint);
